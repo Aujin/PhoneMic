@@ -1,0 +1,6 @@
+# The Flutter SDK checkout is a local toolchain, not the PhoneMic app.
+/flutter/
+/.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
